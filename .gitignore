@@ -1,0 +1,6 @@
+.file-versions/
+.od-skills/
+extracted/
+*.artifact.json
+RUID*.png
+opencode/
